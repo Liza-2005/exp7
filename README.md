@@ -41,3 +41,4 @@
 - cd to enter inhere dir
 - ls -al to see all files
 - enter each dir and ls -al to see size and executability
+- hello
